@@ -4,12 +4,7 @@
 #c5{margin : 30px ; }
 #c7{margin : 30px ; }
 #ga1 {width: 100%;}
-#ga3 {width:500px;height:400px;
-  
-  
- 
-
-    }
+#ga3 {width: 100%; }
 @keyframes fade{
   0%{
     opacity: 0;
@@ -88,6 +83,8 @@ footer {background-color:black;
     #d4{width:400px}
     #sonota{width:400px;}
     #sonota2{width:400px;}
+    #ga3 {width:500px;height:400px;
+    }
     .SP_Flex_container a{
         width: 100%;
     }
