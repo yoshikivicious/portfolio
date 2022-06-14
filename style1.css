@@ -26,3 +26,13 @@ footer {background-color:black;
 #oo1{text-align:center;font-size:40px;color:aqua;font-family:"fantasy";}
 #sonota { margin:0 auto;background-color:darkgrey;width:400px;padding:30px;}
 #sonota2 { margin:0 auto;background-color:darkgrey;width:400px;padding:30px;}
+@media screen and(max-width: 480px) {
+    img {
+    border: 0;
+    }
+    }
+@media screen and(min-width: 1280px) {
+    img {
+    border: 1px solid red;
+    }
+}
