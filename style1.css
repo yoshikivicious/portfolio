@@ -1,3 +1,28 @@
 #d1 {display: flex; justify-content: center; }
 #c1{margin : 30px ;}
 #c2{margin : 30px ; }
+#c5{margin : 30px ; }
+#ga1 {width:1200px;height:550px;}
+#ga3 {width:500px;height:400px;}
+#ga5{width:32px;height:32px;}
+
+#d3 {margin : 30px ;}
+#hed1{margin : 30px ;background-color:black;
+        color:white;}
+#hed2{margin : 30px ;background-color:black;
+        color:white;}
+#hed3{ ;background-color:black;
+        color:white;}
+footer {background-color:black;
+        color:white; text-align:center;}
+#d3 {display: flex; justify-content: center; margin : 30px ;}
+#c3{margin : 30px ; text-align:center;background-color:darkgrey;width:400px;}
+#d4{margin : 30px ;background-color:darkgrey;width:400px;}
+
+#hako1 {display: flex; justify-content: center; margin : 30px ;}
+#pp1{margin : 30px ;padding:30px;}
+#hed4{ ;background-color:black;
+        color:white;}
+#oo1{text-align:center;font-size:40px;color:aqua;font-family:"fantasy";}
+#sonota { margin:0 auto;background-color:darkgrey;width:400px;padding:30px;}
+#sonota2 { margin:0 auto;background-color:darkgrey;width:400px;padding:30px;}
