@@ -16,8 +16,10 @@
 footer {background-color:black;
         color:white; text-align:center;}
 #d3 { margin:0 auto;}
-#c3{margin : 30px ; text-align:center;background-color:darkgrey;width:400px;}
-#d4{margin : 30px ;background-color:darkgrey;width:400px;}
+#c3{width: 100%;
+    margin: 10px auto; ; text-align:center;background-color:darkgrey;width:400px;}
+#d4{width: 100%;
+    margin: 10px auto; ;background-color:darkgrey;width:400px;}
 
 #hako1 { margin : 30px ;}
 #pp1{margin : 30px ;padding:30px;}
