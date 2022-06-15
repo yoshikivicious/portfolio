@@ -1,8 +1,8 @@
 #d1 {display: flex; justify-content: center;width: 100%; }
-#c1{margin : 30px ;}
-#c2{margin : 30px ; }
-#c5{margin : 30px ; }
-#c7{margin : 30px ; }
+#c1{margin : 10px ;}
+#c2{margin : 10px ; }
+#c5{margin : 10px ; }
+#c7{margin : 10px ; }
 #ga1 {width: 100%;}
 #ga3 {width: 100%;}
 @keyframes fade{
