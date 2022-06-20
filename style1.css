@@ -1,4 +1,7 @@
-#d1 {display: flex; justify-content: center;width: 100%; }
+#d1 {display: flex;
+      justify-content:center;
+      width: 100%;
+    }
 #c1{margin : 10px ;}
 #c2{margin : 10px ; }
 #c5{margin : 10px ; }
@@ -24,7 +27,7 @@
 
 #ga5{width:32px;height:32px;}
 
-#d3 {}
+
 #hed1{background-color:black;
         color:white;}
 #hed2{background-color:black;
@@ -34,37 +37,53 @@
 #hedwo{ ;background-color:black;
         color:white;}
 footer {background-color:black;
-        color:white; text-align:center;}
+        color:white; 
+        text-align:center;}
 #d3 { margin:3px auto;}
-#c3{margin:3px auto; text-align:center;background-color:darkgrey;padding:30px;  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
-  border-bottom-right-radius: 20px;
-  border-bottom-left-radius: 20px;
-}
-#d4{margin:3px auto;background-color:darkgrey;padding:30px;
+#c3{margin:3px auto; 
+    text-align:center;
+    background-color:darkgrey;
+    padding:30px;
     border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
-  border-bottom-right-radius: 20px;
-  border-bottom-left-radius: 20px;
-    }
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+#d4{margin:3px auto;
+    background-color:darkgrey;
+    padding:30px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
 
 #hako1 { margin : 30px ;}
 #pp1{padding:5px;}
 #hed4{ ;background-color:black;
         color:white;}
-#oo1{text-align:center;font-size:30px;color:aqua;font-family:"fantasy";width: 100%;}
-#sonota { margin:3px auto;background-color:darkgrey;padding:30px;
-        border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
-  border-bottom-right-radius: 20px;
-  border-bottom-left-radius: 20px;
-}
-#sonota2 { margin:3px auto;background-color:darkgrey;padding:30px;
-        border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
-  border-bottom-right-radius: 20px;
-  border-bottom-left-radius: 20px;
-}
+#oo1{text-align:center;
+      font-size:30px;
+      color:aqua;
+      font-family:"fantasy";
+      width: 100%;
+  }
+#sonota {margin:3px auto;
+          background-color:darkgrey;
+          padding:30px;
+          border-top-left-radius: 20px;
+          border-top-right-radius: 20px;
+          border-bottom-right-radius: 20px;
+          border-bottom-left-radius: 20px;
+  }
+#sonota2 {margin:3px auto;
+            background-color:darkgrey;
+            padding:30px;
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+            border-bottom-right-radius: 20px;
+            border-bottom-left-radius: 20px;
+  }
 
 @media screen and (min-width:900px){
     #hako1{
