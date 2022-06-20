@@ -1,11 +1,11 @@
-#d1 {display: flex;
+#contener-1 {display: flex;
       justify-content:center;
       width: 100%;
     }
-#c1{margin : 10px ;}
-#c2{margin : 10px ; }
-#c5{margin : 10px ; }
-#c7{margin : 10px ; }
+#icon-pro{margin : 10px ;}
+#icon-sk{margin : 10px ; }
+#icon-con{margin : 10px ; }
+#icon-wk{margin : 10px ; }
 #ga1 {width: 100%;}
 #ga3 {width: 100%;}
 @keyframes fade{
@@ -28,19 +28,21 @@
 #ga5{width:32px;height:32px;}
 
 
-#hed1{background-color:black;
+#menu-h1{background-color:black;
         color:white;}
-#hed2{background-color:black;
+#pro-h2{background-color:black;
         color:white;}
-#hed3{ ;background-color:black;
+#skill-h2{ ;background-color:black;
         color:white;}
 #hedwo{ ;background-color:black;
+        color:white;}
+#con-h2{ ;background-color:black;
         color:white;}
 footer {background-color:black;
         color:white; 
         text-align:center;}
-#d3 { margin:3px auto;}
-#c3{margin:3px auto; 
+#contener3 { margin:3px auto;}
+#lang-box{margin:3px auto; 
     text-align:center;
     background-color:darkgrey;
     padding:30px;
@@ -49,7 +51,7 @@ footer {background-color:black;
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 20px;
   }
-#d4{margin:3px auto;
+#etc-box{margin:3px auto;
     background-color:darkgrey;
     padding:30px;
     border-top-left-radius: 20px;
@@ -58,17 +60,17 @@ footer {background-color:black;
     border-bottom-left-radius: 20px;
   }
 
-#hako1 { margin : 30px ;}
-#pp1{padding:5px;}
+#contener-2 { margin : 30px ;}
+#p-1{padding:5px;}
 #hed4{ ;background-color:black;
         color:white;}
-#oo1{text-align:center;
+#logo-h1{text-align:center;
       font-size:30px;
       color:aqua;
       font-family:"fantasy";
       width: 100%;
   }
-#sonota {margin:3px auto;
+#other-1 {margin:3px auto;
           background-color:darkgrey;
           padding:30px;
           border-top-left-radius: 20px;
@@ -76,7 +78,7 @@ footer {background-color:black;
           border-bottom-right-radius: 20px;
           border-bottom-left-radius: 20px;
   }
-#sonota2 {margin:3px auto;
+#other-2 {margin:3px auto;
             background-color:darkgrey;
             padding:30px;
             border-top-left-radius: 20px;
@@ -84,24 +86,51 @@ footer {background-color:black;
             border-bottom-right-radius: 20px;
             border-bottom-left-radius: 20px;
   }
-
+#git-box {margin:3px auto;
+            background-color:darkgrey;
+            padding:30px;
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+            border-bottom-right-radius: 20px;
+            border-bottom-left-radius: 20px;
+  }
+#works-1 {margin:3px auto;
+            background-color:darkgrey;
+            padding:30px;
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+            border-bottom-right-radius: 20px;
+            border-bottom-left-radius: 20px;
+  }
+#works-2 {margin:3px auto;
+            background-color:darkgrey;
+            padding:30px;
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+            border-bottom-right-radius: 20px;
+            border-bottom-left-radius: 20px;
+  }
 @media screen and (min-width:900px){
-    #hako1{
+    #contener-2{
         display: flex;
         justify-content: space-around;
     }
-    #d3{
+    #contener-3{
         display: flex;
         justify-content: space-around;
     }
-     #work1{
+     #works-contener{
         display: flex;
         justify-content: space-around;
     }
-    #c3{width:400px;}
-    #d4{width:400px}
-    #sonota{width:400px;}
-    #sonota2{width:400px;}
+    #coment-1{width:400px;}
+    #lang-box{width:400px}
+    #etc-box{width:400px;}
+    #other-1{width:400px;}
+    #other-2{width:400px;}
+    #works-1{width:400px;}
+    #works-2{width:400px;}
+    #git-box{width:400px;}
     #ga3 {width:500px;height:400px;
     }
     .SP_Flex_container a{
